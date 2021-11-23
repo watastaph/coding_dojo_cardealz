@@ -1,0 +1,194 @@
+/** SIDE BAR MENU **/
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: "Helvetica Neue", Helvetica,Arial;
+
+	}
+/**CLEAR**/
+.clear{
+	clear:both;
+}
+
+/**CONTENT **/
+
+#content{
+	width: 100%;
+
+}
+
+
+#sidebar{
+	background: #ffc107;
+	width: 200px;
+	height: 100%;
+	display: block;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	transition: left 0.3s linear;
+	
+}
+
+#sidebar.visible{
+	left: -200px;
+	transition: left 0.3s linear;
+}
+
+ul{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+ul li{
+	list-style: none;
+}
+ul li a {
+	background: #ffc107;
+	color: #000;
+	display: block;
+	width: 180px;
+	height: 30px;
+	padding: 10px;
+	text-decoration: none;
+
+}
+ul li a:hover{
+	cursor: pointer;
+	background: #884EA0;
+	color: #000;
+}
+#picpos{
+	background: #ffc107;
+	color: #000;
+	border-bottom: 0px solid #111;
+	display: block;
+	width: 180px;
+	height: 55px;
+	padding: 10px;
+	text-decoration: none;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+p{
+	text-align: center;
+	font-size: 15px;
+}
+
+#sidebar-btn{
+	display: inline-block;
+	vertical-align: middle;
+	width: 20px;
+	height: 15px;
+	cursor: pointer;
+	margin: 13px;
+	position: absolute;
+	top: 0px;
+	right: -50px;
+}
+
+#sidebar-btn span{
+	height: 2px;
+	background: #111;
+	margin-bottom: 7px;
+	display: block;
+}
+
+
+/**ICONS**/
+
+#lib{
+	width: 30px;
+	height:30px;
+	position: absolute;
+	right: 10px;
+}
+
+/**PROFILE PIC**/
+#profile {
+	border-radius: 50%;
+	width: 80px;
+	height:80px;
+	position: absolute;
+	right: 60px;
+}
+
+
+/**CENTER**/
+#center{
+	margin: 0 auto;
+	width: 80%;
+	
+}
+
+/**HEADER**/
+
+#header{
+	
+	position: fixed;
+	width: 100%;
+	background-color: #ffc107;
+	height: 50px;
+
+}
+
+
+#search{
+	float: left;
+	padding: 8px;
+	margin: 8px 6px 6px 50px;
+	width: 60%;
+	border: none;
+	outline: none;
+	border-radius: 2px;
+
+}
+
+/**PARALLAX**/
+
+		#box1{
+ 			
+            height: 100vh;
+            width: 100%;
+            background-image: url(../image/mcu.jpeg);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+        }
+        #box2{
+            height: 100vh;
+            width: 100%;
+            background-image: url(../image/library.jpg);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+        }
+        #box3{
+            height: 100vh;
+            width: 100%;
+            background-image: url(../image/zurbaran.jpg);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+        }
+        h1{
+            font-family: arial black;
+            font-size: 50px;
+            color:white;
+            margin: 0px;
+            text-align: center;
+            display: table-cell;
+            vertical-align: middle;
+        }
+
+        #text{
+        	width: 100%;
+        	height: 300px;
+        	background-color: #2C3E50;
+        	vertical-align: middle;
+        	text-align: center;
+        	color: #fff;
+        	top: 50%;
+        	display: table-cell;
+        }

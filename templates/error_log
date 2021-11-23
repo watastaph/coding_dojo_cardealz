@@ -1,0 +1,38 @@
+[10-Mar-2018 05:09:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/norstare/public_html/dbconnection.php on line 2
+[10-Mar-2018 05:09:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/norstare/public_html/dbconnection.php on line 2
+[10-Mar-2018 13:09:51 Asia/Singapore] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/norstare/public_html/index.php on line 75
+[10-Mar-2018 13:09:51 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/norstare/public_html/index.php on line 76
+[10-Mar-2018 13:09:51 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/norstare/public_html/index.php on line 77
+[10-Mar-2018 05:09:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/norstare/public_html/dbconnection.php on line 2
+[10-Mar-2018 08:04:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/norstare/public_html/dbconnection.php on line 2
+[10-Mar-2018 08:05:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/norstare/public_html/dbconnection.php on line 2
+[10-Mar-2018 16:05:02 Asia/Singapore] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/norstare/public_html/index.php on line 75
+[10-Mar-2018 16:05:02 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/norstare/public_html/index.php on line 76
+[10-Mar-2018 16:05:02 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/norstare/public_html/index.php on line 77
+[10-Mar-2018 08:05:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/norstare/public_html/dbconnection.php on line 2
+[10-Mar-2018 08:05:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/norstare/public_html/dbconnection.php on line 2
+[10-Mar-2018 16:05:20 Asia/Singapore] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/norstare/public_html/index.php on line 75
+[10-Mar-2018 16:05:20 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/norstare/public_html/index.php on line 76
+[10-Mar-2018 16:05:20 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/norstare/public_html/index.php on line 77
+[10-Mar-2018 08:05:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/norstare/public_html/dbconnection.php on line 2
+[10-Mar-2018 08:05:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/norstare/public_html/dbconnection.php on line 2
+[10-Mar-2018 16:05:35 Asia/Singapore] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/norstare/public_html/index.php on line 75
+[10-Mar-2018 16:05:35 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/norstare/public_html/index.php on line 76
+[10-Mar-2018 16:05:35 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/norstare/public_html/index.php on line 77
+[10-Mar-2018 08:05:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/norstare/public_html/dbconnection.php on line 2
+[10-Mar-2018 08:05:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/norstare/public_html/dbconnection.php on line 2
+[10-Mar-2018 16:05:49 Asia/Singapore] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/norstare/public_html/index.php on line 75
+[10-Mar-2018 16:05:49 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/norstare/public_html/index.php on line 76
+[10-Mar-2018 16:05:49 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/norstare/public_html/index.php on line 77
+[10-Mar-2018 08:05:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/norstare/public_html/dbconnection.php on line 2
+[10-Mar-2018 08:06:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/norstare/public_html/dbconnection.php on line 2
+[10-Mar-2018 16:06:08 Asia/Singapore] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/norstare/public_html/index.php on line 75
+[10-Mar-2018 16:06:08 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/norstare/public_html/index.php on line 76
+[10-Mar-2018 16:06:08 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/norstare/public_html/index.php on line 77
+[10-Mar-2018 08:06:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/norstare/public_html/dbconnection.php on line 2
+[13-Mar-2018 00:49:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/norstare/public_html/dbconnection.php on line 2
+[13-Mar-2018 00:49:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/norstare/public_html/dbconnection.php on line 2
+[13-Mar-2018 08:49:43 Asia/Singapore] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/norstare/public_html/index.php on line 75
+[13-Mar-2018 08:49:43 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/norstare/public_html/index.php on line 76
+[13-Mar-2018 08:49:43 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/norstare/public_html/index.php on line 77
+[13-Mar-2018 00:49:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/norstare/public_html/dbconnection.php on line 2

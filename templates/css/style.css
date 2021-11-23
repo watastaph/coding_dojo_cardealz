@@ -1,0 +1,168 @@
+/* Mobile Responsive */
+ @import url("mobile.css");
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,800');
+@import url("fonts/octin sports rg.ttf");
+html, body{
+	margin:0;
+	padding:0;
+	background: url('pattern.jpg');
+	
+	background-position: center;
+	font-family:'Open Sans', sans-serif;
+	font-size:14px;
+}
+.center{
+	margin:0 auto;
+	width:88%;
+}
+.container{
+	width:100%;
+}
+.clear{
+	clear:both;
+}
+
+
+
+/** HEADER **/
+.header{
+
+	padding: 15px 10px 15px 10px;
+	background-color: #403737;
+	position: fixed;
+	width: 100%;
+	box-shadow: 1px 1px 1px 1px #948b8b;
+}
+.sidebar{
+	/* padding:20px; */
+	background-color: #96c0de;
+	margin-top: 32px;
+	padding-bottom: 10px;
+}
+.content{
+	padding:20px;
+	background-color: #f5f8f9;
+	margin-top: 32px;
+}
+
+ul{
+	margin:0;
+	padding:0;
+}
+.navigation{
+	margin-top:14px;
+	padding-left: 0px;
+}
+.navigation li{
+	list-style:none;
+	border-bottom:1px solid #eee;
+	padding-left: 16px;
+}
+.navigation li a{
+	color:#Fff;
+	text-decoration:none;
+	
+}
+
+.table-responsive{
+	width:100%;
+	border:1px solid #eee;
+}
+input{
+	border:0px;
+	box-sizing:none;
+	
+}
+
+/** LOGIN **/
+
+.login
+{
+	width: 320px;
+	height: 520px;
+	background: #ffc107;
+	color: #fff;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 0px 30px;
+
+}
+
+.owl{
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	top: 90px;
+	left: calc(50% - 75px);
+
+}
+
+h1{
+	margin: 0px;
+	margin-bottom: 140px;
+	padding: 0 0 20px;
+	text-align: center;
+	font-family: octin sports; 
+	font-size: 80px;
+	font-weight: bold;
+}
+
+.login p{
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+}
+
+.login input{
+	width: 100%;
+	margin-bottom: 5px;
+
+}
+
+.login input[type="text"], input[type="password"]
+{
+	border: none;
+	border-bottom: 1px solid #fff;
+	background: transparent;
+	outline: none;
+	height: 40px;
+	color: #fff;
+	font-size: 16px;
+
+}
+
+.login input[type="submit"]
+{
+margin-top: 19px;
+border: none;
+outline: none;
+height: 40px;
+background: #5B2C6F;
+color: #fff;
+font-size: 18px;
+border-radius: 5px;
+}
+
+.login input[type="submit"]:hover
+{
+	cursor: pointer;
+	background: #884EA0;
+	color: #000;
+
+} 
+
+.login a
+{
+	text-decoration: none;
+	font-size: 12px;
+	line-height: 20px;
+	color: darkgrey;
+
+}
+
+
+
+
